@@ -1,0 +1,2 @@
+# fakebsod
+fakeBSOD
